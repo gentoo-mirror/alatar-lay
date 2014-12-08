@@ -1,0 +1,14 @@
+# ChangeLog for x11-libs/wxthings
+# Copyright 1999-2012 Gentoo Foundation; Distributed under the GPL v2
+# $Header:  $
+
+*wxthings-9999 (08 Dec 2014)
+
+  08 Dec 2014; Alatar <alatar_@list.ru> wxthings-9999.ebuild:
+  Update to build with fixed revision (temporary).
+
+*wxthings-9999 (05 Oct 2012)
+
+  05 Oct 2012; Alatar <alatar_@list.ru> +wxthings-9999.ebuild:
+  Initial import.
+
