@@ -22,6 +22,11 @@ DEPEND="x11-libs/libX11
 	truetype? ( media-libs/freetype )"
 RDEPEND="${DEPEND}"
 
+src_unpack() {
+    unpack ${A}
+    ln -s "${S}/install-files" "${S}/src" || die
+}
+
 src_configure() {
 	mycmakeargs=(
 		$(cmake-utils_use_with samba SMBCLIENT)

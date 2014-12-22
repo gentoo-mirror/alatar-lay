@@ -16,5 +16,8 @@ Features:
 * virtual file system (smb, ftp, sftp)
 * very fast user interface
 </longdescription>
+<use>
+	<flag name="ssh">Add support for libssh2 (SFTP)</flag>
+</use>
 </pkgmetadata>
 
