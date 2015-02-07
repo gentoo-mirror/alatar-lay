@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+<maintainer>
+	<email>alatar_@list.ru</email>
+</maintainer>
+<longdescription lang="en">
+The purpose of this project is to create a multi-platform open source file manager (Windows, Linux, FreeBSD, OS X) mimicking the look-n-feel of Far Manager.
+Currently Wal Commander runs on Windows, Linux, FreeBSD and on OS X using XQuartz.
+
+Features:
+* mimic look-n-feel (including editor and shortcuts) of Far Manager
+* built-in terminal
+* built-in text editor with syntax highlighting
+* built-in text viewer
+* virtual file system (smb, ftp, sftp)
+* very fast user interface
+</longdescription>
+<use>
+	<flag name="ssh">Add support for libssh2 (SFTP)</flag>
+</use>
+</pkgmetadata>
+
