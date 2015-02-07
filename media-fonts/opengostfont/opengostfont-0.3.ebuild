@@ -2,6 +2,8 @@
 # Distributed under the terms of the GNU General Public License v2
 # $Header: $
 
+EAPI=5
+
 inherit font
 
 DESCRIPTION="Open-source version of the fonts by Russian standard GOST 2.304-81 Letters for drawings"
