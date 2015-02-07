@@ -6,8 +6,7 @@ inherit font
 
 DESCRIPTION="Open-source version of the fonts by Russian standard GOST 2.304-81 Letters for drawings"
 HOMEPAGE="https://bitbucket.org/fat_angel/opengostfont"
-#SRC_URI="https://bbuseruploads.s3.amazonaws.com/fat_angel/${PN}/downloads/${PN}-ttf-${PV}.tar.xz"
-SRC_URI="https://bitbucket.org/fat_angel/opengostfont/downloads/opengostfont-ttf-0.3.tar.xz"
+SRC_URI="https://bitbucket.org/fat_angel/${PN}/downloads/${PN}-ttf-${PV}.tar.xz"
 
 LICENSE="OFL-1.1"
 SLOT="0"
