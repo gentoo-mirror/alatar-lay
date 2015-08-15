@@ -3,5 +3,6 @@ app-misc/wal-commander 0.18.1: Wal Commander GitHub Edition - Multi-platform ope
 dev-embedded/stmflasher 9999: Open source cross platform flash program for the STM factory preprogrammed bootloader
 dev-libs/libctb 0.16: Communication toolbox library
 media-fonts/opengostfont 0.3: Open-source version of the fonts by Russian standard GOST 2.304-81 Letters for drawings
+x11-libs/plotctrl 9999: wxPlotCtrl is a interactive xy data plotting widgets
 x11-libs/wxfreechart 9999: wxFreeChart is the free crossplatform chart library based on wxWidgets
 x11-libs/wxthings 9999: wxThings is a variety of data containers and controls
