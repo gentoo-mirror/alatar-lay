@@ -14,7 +14,7 @@ Features
  * auto-detect Intel HEX or raw binary input format with option to force binary 
  * flash from binary file 
  * save flash to binary file 
- * verify & retry up to N times on failed writes 
+ * verify and retry up to N times on failed writes 
  * start execution at specified address 
  * software reset the device when finished if -g not specified 
  * resume already initialized connection (for when reset fails)
