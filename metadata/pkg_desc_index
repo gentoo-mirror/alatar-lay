@@ -1,6 +1,5 @@
 app-dicts/myspell-ru_en 20070129: Russian English mixed dictionaries for myspell/hunspell
 app-misc/wal-commander 0.18.1: Wal Commander GitHub Edition - Multi-platform open source file manager for Windows, Linux, FreeBSD and OS X
-dev-embedded/stmflasher 9999: Open source cross platform flash program for the STM factory preprogrammed bootloader
 dev-libs/libctb 0.16: Communication toolbox library
 media-fonts/opengostfont 0.3: Open-source version of the fonts by Russian standard GOST 2.304-81 Letters for drawings
 x11-libs/plotctrl 9999: wxPlotCtrl is a interactive xy data plotting widgets
