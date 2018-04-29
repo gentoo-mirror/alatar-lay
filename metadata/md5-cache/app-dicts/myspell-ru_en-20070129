@@ -7,5 +7,5 @@ KEYWORDS=alpha amd64 arm hppa ia64 ~mips ppc ppc64 ~sh sparc x86 ~amd64-fbsd ~x8
 RESTRICT=mirror
 SLOT=0
 SRC_URI=http://ftp.mozilla-russia.org/dictionaries/ru-en_spell_dictionary.xpi
-_eclasses_=myspell-r2	efe585da0c175bc2ac2dffda176c79dc
+_eclasses_=myspell-r2	d7a80fcc3949917840a5c8f1a967004c
 _md5_=c64da9270a2a9ce0a4462502af297ce8
