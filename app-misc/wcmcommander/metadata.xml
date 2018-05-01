@@ -6,7 +6,7 @@
 </maintainer>
 <longdescription lang="en">
 The purpose of this project is to create a multi-platform open source file manager (Windows, Linux, FreeBSD, OS X) mimicking the look-n-feel of Far Manager.
-Currently Wal Commander runs on Windows, Linux, FreeBSD and on OS X using XQuartz.
+Currently WCM Commander runs on Windows, Linux, FreeBSD and on OS X using XQuartz.
 
 Features:
 * mimic look-n-feel (including editor and shortcuts) of Far Manager
