@@ -2,11 +2,11 @@
 # Distributed under the terms of the GNU General Public License v2
 # $Header: $
 
-EAPI=4
+EAPI=7
 
 MYSPELL_DICT=(
-	"ru-English.aff"
-	"ru-English.dic"
+	"Russian-English_Bilingual.aff"
+	"Russian-English_Bilingual.dic"
 )
 
 MYSPELL_HYPH=(
@@ -18,8 +18,8 @@ MYSPELL_THES=(
 inherit myspell-r2
 
 DESCRIPTION="Russian English mixed dictionaries for myspell/hunspell"
-HOMEPAGE="https://addons.mozilla.org/ru/firefox/addon/english-russian-dict/"
-SRC_URI="https://addons.mozilla.org/firefox/downloads/file/175862/addon-1.4-fx+tb-windows.xpi"
+HOMEPAGE="https://addons.mozilla.org/en-US/firefox/addon/russian-english-dictionary/"
+SRC_URI="https://addons.mozilla.org/firefox/downloads/file/1167355/russian_english_dictionary-1.0.xpi"
 
 SLOT="0"
 KEYWORDS="alpha amd64 arm hppa ia64 ~mips ppc ppc64 ~sh sparc x86 ~amd64-fbsd ~x86-fbsd"
