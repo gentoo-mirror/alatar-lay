@@ -1,5 +1,7 @@
+app-dicts/myspell-ru_en 2.0: Russian English mixed dictionaries for myspell/hunspell
 app-misc/wcmcommander 0.20.0: WCL Commander - Multi-platform open source file manager for Windows, Linux, FreeBSD and OS X
 dev-libs/libctb 0.16: Communication toolbox library
+media-fonts/opengostfont 1.0: Open-source version of the fonts by Russian standard GOST 2.304-81
 x11-libs/plotctrl 9999: wxPlotCtrl is a interactive xy data plotting widgets
 x11-libs/wxfreechart 9999: wxFreeChart is the free crossplatform chart library based on wxWidgets
 x11-libs/wxthings 9999: wxThings is a variety of data containers and controls
