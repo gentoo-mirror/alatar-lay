@@ -10,5 +10,5 @@ LICENSE=GPL-3
 RDEPEND=>=x11-libs/gtk+-3.4.0 app-text/po4a dev-util/itstool app-text/gtkspell:3 x11-libs/libnotify
 SLOT=0
 SRC_URI=http://download.tuxfamily.org/gsf/source/modem-manager-gui-0.0.20.tar.gz
-_eclasses_=multiprocessing	61c959fc55c15c00bbb1079d6a71370b	ninja-utils	fef481272d4a8e136a7d8a0fb1329384	eapi8-dosym	cd7d420bb5be5ee079f27239ce76b8f5	toolchain-funcs	badd6e329e1f3e6bee99b35bf8763ce8	multilib	4a33c9008e5ee30cb8840a3fdc24df2b	python-utils-r1	59dddabd6a41ab69723654916142f63b	meson	2d8a51910bc57e004c37aa55c7d99ce4
+_eclasses_=multiprocessing	61c959fc55c15c00bbb1079d6a71370b	ninja-utils	fef481272d4a8e136a7d8a0fb1329384	eapi8-dosym	cd7d420bb5be5ee079f27239ce76b8f5	toolchain-funcs	badd6e329e1f3e6bee99b35bf8763ce8	multilib	4a33c9008e5ee30cb8840a3fdc24df2b	python-utils-r1	777767a09e8cd6db1d4cebe8400bc974	meson	2d8a51910bc57e004c37aa55c7d99ce4
 _md5_=5ca23f3f9651a78cd8de85cf802215d0
