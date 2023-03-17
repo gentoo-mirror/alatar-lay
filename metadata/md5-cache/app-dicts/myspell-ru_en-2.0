@@ -8,5 +8,5 @@ KEYWORDS=alpha amd64 arm hppa ia64 ~mips ppc ppc64 ~sh sparc x86 ~amd64-fbsd ~x8
 RESTRICT=mirror
 SLOT=0
 SRC_URI=https://addons.mozilla.org/firefox/downloads/file/1167355/russian_english_dictionary-1.0.xpi
-_eclasses_=myspell-r2	f5e1b4abe7064f57dc0b2f962e66a100
+_eclasses_=myspell-r2	d70debd5f4806077ff74738d349a5927
 _md5_=f73e15d8e74ff0930786d67de3b20e6e

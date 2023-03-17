@@ -10,5 +10,5 @@ KEYWORDS=amd64 ~arm ~arm64 x86 ~amd64-linux ~x86-linux ~x64-macos
 LICENSE=OFL-1.10
 SLOT=0
 SRC_URI=https://webfonts.ru/original/opengosta/opengosta.zip
-_eclasses_=font	5e03cb70902daa9ff8967c61130f0f60
+_eclasses_=font	aa113a3df9cd0a9693a1c1ee7c34a6eb
 _md5_=2d061c5c8d6b05f827ac9b8fbb10dc81
